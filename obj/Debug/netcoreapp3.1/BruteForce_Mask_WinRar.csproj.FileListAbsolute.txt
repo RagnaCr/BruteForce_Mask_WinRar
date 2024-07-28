@@ -1,0 +1,14 @@
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.exe
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.deps.json
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.runtimeconfig.json
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.runtimeconfig.dev.json
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.dll
+F:\ProjectsVisual\BruteForce_Mask_WinRar\bin\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.pdb
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.csproj.AssemblyReference.cache
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.AssemblyInfoInputs.cache
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.AssemblyInfo.cs
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.csproj.CoreCompileInputs.cache
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.dll
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.pdb
+F:\ProjectsVisual\BruteForce_Mask_WinRar\obj\Debug\netcoreapp3.1\BruteForce_Mask_WinRar.genruntimeconfig.cache

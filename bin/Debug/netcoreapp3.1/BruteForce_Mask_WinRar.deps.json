@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BruteForce_Mask_WinRar/1.0.0": {
+        "runtime": {
+          "BruteForce_Mask_WinRar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BruteForce_Mask_WinRar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
